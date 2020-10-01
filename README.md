@@ -2,11 +2,11 @@
 
 Link para a definição de Sequência:
 
-[Link](https://mariadb.com/kb/en/library/sequence-overview/)
+[Sequence Overview](https://mariadb.com/kb/en/library/sequence-overview/)
 
-Material para Upgrade do MariaDB para a versão 10.3
+Material para Upgrade do MariaDB para a versão 10.3:
 
-[Link](https://mariadb.com/kb/en/library/upgrading-from-mariadb-102-to-mariadb-103/)
+[Upgrade MariaDB](https://mariadb.com/kb/en/library/upgrading-from-mariadb-102-to-mariadb-103/)
 
 **01.** Escreva os seguintes comandos relacionados com *Sequences* no MariaDB 10.3.
 ```
