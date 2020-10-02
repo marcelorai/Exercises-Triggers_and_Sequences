@@ -1,0 +1,2 @@
+ALTER SEQUENCE public.questao_10
+    MAXVALUE 200;
