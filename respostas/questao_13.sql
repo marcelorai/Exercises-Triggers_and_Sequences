@@ -1,0 +1,5 @@
+CREATE SEQUENCE IF NOT EXISTS public."100_em_diante"
+    INCREMENT 1
+    START 100;
+	
+SELECT NEXTVAL('100_em_diante');
